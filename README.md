@@ -1,4 +1,5 @@
 # Rules
+:book: Правила: :book: 
 :wave: Приветствуем Вас на сервере Revolution! :wave: 
 :white_check_mark: Здесь разрешается: :white_check_mark: 
 :speech_balloon: Общатся в чате, :speech_balloon: 
@@ -10,4 +11,4 @@
 :zipper_mouth: Спамить, :zipper_mouth: 
 :face_with_symbols_over_mouth: Ругатся любыми словами, :face_with_symbols_over_mouth: 
 :scroll: Рекламировать любые предметы, :scroll: 
-:point_right: @Пинговать роли. :point_left:
+:point_right: @Пинговать роли. :point_left::
